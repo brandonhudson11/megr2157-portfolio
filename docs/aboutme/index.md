@@ -1,3 +1,3 @@
 #About Me
-Hello, my name is Brandon Hudson and I am a junior studying Mechanical engineering with a concentration in motorsports!
+Hello, my name is Brandon Hudson and I am currently junior studying Mechanical engineering with a concentration in motorsports at the University of North Carolina Charlotte!
 
