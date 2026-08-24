@@ -11,7 +11,7 @@
 
 **Evidence of reasoning**: I believe this portfolio shows the steps and decisions made by engineers not just the final answer. The student explains every component of the tool. The grip on the top of the screwdriver is used to place your hand to help placement and function. The student also circles images to help the reader understand what is being discussed in the lower paragraph. 
 
-**Professional tone**: The portfolio uses engineering terms as well as documented drawings and images to help the reader understand. Therefore, I believe thus would meet the requirements to hand into an employer because the student explained each step in deep detail and knew exactly what to talk about. However, I feel more subtitles would help locate each component better, and an employer would be better able to locate what he/she is looking for. 
+**Professional tone**: The portfolio uses engineering terms as well as documented drawings and images to help the reader understand. Therefore, I believe this portfolio would meet the requirements to hand into an employer because the student explained each step in deep detail and knew exactly what to talk about. However, I feel more subtitles would help locate each component better, and an employer would be better able to locate what he/she is looking for. 
 
 
 ## Portfolio 2- Nathaniel Karau (https://natekarau61.github.io/Engineering-Portfolio/Project_0.html)
