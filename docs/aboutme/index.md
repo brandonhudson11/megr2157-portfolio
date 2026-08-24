@@ -8,6 +8,6 @@ I want to become an engineer who can apply my skills to real-world problems and 
 My long-term goal is to become a NASCAR engineer and eventually a crew chief. As a racing engineer, I want to use problem-solving, data analysis, and testing to help improve the performance of a race car and contribute to a team. I believe one of the most important parts of engineering is learning from failure. When something does not work, I want to understand why, identify what can be improved, and apply that knowledge to the next solution. Ultimately, I am becoming an engineer who wants to solve real-world problems, continuously improve, and turn challenges into better designs.
 
 
-**What does it mean to defend an engineering decision?**
+#**What does it mean to defend an engineering decision?**
 
 
