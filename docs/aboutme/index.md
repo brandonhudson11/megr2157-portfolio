@@ -1,4 +1,6 @@
-<img width="1242" height="1794" alt="unnamed" src="https://github.com/user-attachments/assets/3460534f-5de8-4507-a71d-3c458ee0e463" />
+<div style="text-align: center;">
+  <img width="400" height="580" alt="unnamed" src="https://github.com/user-attachments/assets/3460534f-5de8-4507-a71d-3c458ee0e463" />
+</div>
 
 
 #About Me
