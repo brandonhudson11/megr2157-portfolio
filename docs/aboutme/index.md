@@ -5,6 +5,8 @@
 
 
 
+
+
 #About Me
 Hello, my name is Brandon Hudson, and I am currently a junior studying Mechanical Engineering with a concentration in Motorsports at the University of North Carolina at Charlotte.
 
@@ -18,3 +20,6 @@ My long-term goal is to become a NASCAR engineer and eventually a crew chief. As
 #**What does it mean to defend an engineering decision?**
 
 I believe defending an engineering decision means being able to talk about why you made the decision you did and provide evidence and reasoning to back up why you made that decision. Engineers should always have a reason why a decision is being made or not made. For example, if an engineer wants to design a table out of steel instead of wood, they should be able to provide reasons why they feel that steel is the better choice. Currently, I would say I do not fully understand how to defend engineering decisions, but I look forward to getting better at this aspect of engineering. I want to become more comfortable using evidence, data, and reasoning to explain and support the decisions I make.
+
+#**Time Spent**
+On this assignment, I spent around 8 hours to complete.
