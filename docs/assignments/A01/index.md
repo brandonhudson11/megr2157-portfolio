@@ -5,7 +5,7 @@
 
 ## Portfolio 1- Alex Green (UNC Charlotte Spring 2025)
 
-**Navigability**:The portfolio is well organized, so the reader is able to locate any assignment without having to search for them. The assignments tabs are labeled with the project that was completed and is very simple to find. Each page is broken down to sub headers, and it allows the reader to understand the portfolio much better. 
+**Navigability**: The portfolio is well organized, so the reader is able to locate any assignment without having to search for them. The assignments tabs are labeled with the project that was completed and is very simple to find. Each page is broken down to sub headers, and it allows the reader to understand the portfolio much better. 
 
 **Reproducibility**: The portfolio provides a deep depth into each assignment. For A1 the screwdriver was explained with a lot of detail and research that colleagues would know it was a screwdriver without seeing the images. The student provides images that break down each component of the screwdriver and how the tool is just efficient as an electric powered drill. The student explains the manufacture process of the drill and how well the tool works. 
 
