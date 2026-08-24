@@ -20,7 +20,7 @@
 
 **Reproductivity**: I believe the portfolio shows enough information and is explained very deeply where a colleague would understand the product without seeing it. The portfolio shows images where the product was laid out and explained in great depth. The portfolio shows how CAD was used and how every product was manufactured. 
 
-**Evidence of reasoning**: The portfolio deeply describes how things were created. It doesn't just go straight to the result, instead, it shows CAD drawings and other forms of evidence needed to help explain the process. Other forms of evidence include, mini subtitles explain what is said in each section, along with personal drawing used to create the products.  
+**Evidence of reasoning**: The portfolio deeply describes how things were created. It doesn't just go straight to the result, instead, it shows CAD drawings and other forms of evidence needed to help explain the process. Other forms of evidence include mini subtitles which explain what is said in each section, along with personal drawing used to create the products.  
 
 **Professional tone**: The portfolio shows professional tone by using engineering terms like "simulation" to describe how products are created and analyzed. It explains the processes took in CAD design which helps engineers better understand how things were made. I defiantly think this portfolio could be turned into an employer because it aligns with engineering language. 
 
