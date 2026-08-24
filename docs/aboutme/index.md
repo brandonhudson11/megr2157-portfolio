@@ -1,4 +1,4 @@
-<img width="1242" height="2208" alt="unnamed" src="https://github.com/user-attachments/assets/4f82af63-f634-44ea-8d40-5ce395d395a8" />
+<img width="1242" height="1500" alt="unnamed" src="https://github.com/user-attachments/assets/4f82af63-f634-44ea-8d40-5ce395d395a8" />
 #About Me
 Hello, my name is Brandon Hudson, and I am currently junior studying Mechanical engineering with a concentration in motorsports at the University of North Carolina Charlotte!
 
