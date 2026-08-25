@@ -13,6 +13,7 @@ Most assignment pages are organized around:
 - **Analyze** — the calculations, models, and data behind your design.
 - **Decide** — the choice you made and, critically, the reasoning for it.
 - **Communicate** — the drawings, report, and presentation you'd hand to a client.
+<img width="720" height="1040" alt="creative_thinking_and_innovative_mind_of_engineer_slide01" src="https://github.com/user-attachments/assets/4d876378-2d44-4ae1-b332-fe641fd81baa" />
 
 Use the navigation on the left to move between assignments.
 
