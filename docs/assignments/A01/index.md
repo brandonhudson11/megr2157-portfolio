@@ -36,4 +36,8 @@
 
 **One Intentional Customization**: 
 
+The initial condition I changed was adding a picture to my homepage that represents the process of an engineer's mind and how engineers approach problems. I chose to add this image because it provides the reader with immediate context about how I view engineering and problem solving. This change better satisfies the requirement of professional communication and evidence of reasoning because it introduces my engineering mindset before the reader begins looking through my work. The original homepage did not provide this context, so a reader would have to explore my portfolio before understanding how I approach engineering problems. The image does not prove my reasoning by itself, but it helps communicate the type of engineer I am and gives the reader a visual introduction to the problem-solving mindset that I want my portfolio to demonstrate.
+
 **Your Documentation Standard**: 
+
+
