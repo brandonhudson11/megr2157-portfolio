@@ -26,6 +26,14 @@
 
 ## Product Analysis- Mini Stapler 
 
+A mini stapler is an object almost everyone uses in their daily life. Whether you are in college or work in an office a stapler is one of the handiest tools there is. The primary function of the stapler is to convert a user's downward input force into a concentrated force that drives a metal staple through multiple sheets of paper and bends the staple legs against an anvil to mechanically fasten the sheets together. This allows one to have all their papers together without losing them or them coming out of order. 
+<img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/35acaecc-3cec-4f4d-8f6a-cd46c2456d27" />
+
+The image above is a picture from the side of my mini stapler. The picture is just a normal image of the stapler and how small it truly is. 
+
+
+
+
 
 
 
@@ -43,4 +51,5 @@ The initial condition I changed was adding a picture to my homepage that represe
 My standard for each assignment is to complete everything and be able to deeply describe what I completed. I want my portfolio to demonstrate my work and is worthy of receiving a high grade on each assignment. 
 
 **Time Spent**
+
 I spent around 8 hours on A1 of my portfolio.
