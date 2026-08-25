@@ -31,3 +31,9 @@
 
 
 ## Decide
+
+**Homepage Identity**: My homepage is an important step into my portfolio. My homepage covers a range of information. I decided to change the intro paragraph on my homepage because I wanted it to better fit each individual task rather than being so broad. I wanted to explain why I am going to follow the analyze, decide, and communicate structure. I believe my homepage needed to be more descriptive, and I wanted to explain what my portfolio would include. The change made it clearer as to what I am working on each day and the decisions I am making to achieve with my degree. My portfolio now will show more than just completed projects. It will also show the details I took to complete each assignment. 
+
+**One Intentional Customization**: 
+
+**Your Documentation Standard**: 
