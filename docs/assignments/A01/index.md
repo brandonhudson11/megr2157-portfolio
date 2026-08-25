@@ -26,7 +26,7 @@
 
 ## Product Analysis- Mini Stapler 
 
-A mini stapler is an object almost everyone uses in their daily life. Whether you are in college or work in an office a stapler is one of the handiest tools there is. The primary function of the stapler is to convert a user's downward input force into a concentrated force that drives a metal staple through multiple sheets of paper and bends the staple legs against an anvil to mechanically fasten the sheets together. This allows one to have all their papers together without losing them or them coming out of order. 
+A mini stapler is an object almost everyone uses in their daily life. A mini stapler is a mechanical fastening device that converts a user's input force into the force required to drive and bend a metal staple through multiple sheets of paper. The primary function of the stapler is to convert a user's downward input force into a concentrated force that drives a metal staple through multiple sheets of paper and bends the staple legs against an anvil to mechanically fasten the sheets together. This allows one to have all their papers together without losing them or them coming out of order. 
 <img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/35acaecc-3cec-4f4d-8f6a-cd46c2456d27" />
 
 The image above is a picture from the side of my mini stapler. The picture is just a normal image of the stapler and how small it truly is. 
@@ -35,11 +35,19 @@ The stapler's governing model would be static moment/lever equilibrium. This tel
 
 <img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/94a67f22-321a-4424-a271-6d791d138c4e" />
 
-In the photo above you can see the top of the stapler and where one would push down to insert the force to allow the stapler to do its job. The top is slanted to allow you to push down onto what you want to staple so that you can staple the paper correctly. 
+In the photo above you can see the top of the stapler and where one would push down to insert the force to allow the stapler to do its job. The upper handle has an elongated and slightly curved geometry that provides a larger distance between the user's hand and the pivot. This increases the moment arm of the applied force, allowing the user to generate a larger torque about the pivot without applying an excessively large force
 
 <img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/bbb9ce49-c3ee-4123-9b12-0ed4f3c82edc" />
 
-The components from the image above include the springs and the staple-feed assembly. The staple-feed assembly holds, feeds, and aligns staples. Most people would say this is one of the most important features because it is actually where the work is done. When you push down on your stapler it shoots the spring into the feed assembly and allows staples to come out properly. 
+The components from the image above include the springs and the staple-feed assembly. The staple-feed assembly holds, feeds, and aligns staples. Most people would say this is one of the most important features because it is actually where the work is done. The spring provides a restoring force that pushes the staple-feed mechanism forward, keeping the staples aligned and positioned near the front of the magazine. Its geometry allows it to compress and extend while maintaining contact with the staple stack.
+
+<img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/2cde2afd-1545-4a44-a599-62a6eedb8e8f" />
+
+The photo above shows the front of the stapler and where the staples come out. This component is what we see each time we staple. The goal is to align the papers in the dipped part on the bottom and press down with force to insert the staples. 
+
+For my patent research, I found U.S. Patent US4666075A, “Stapler mechanism,” which was invented by Paul Olesen and originally assigned to Swingline Inc. The patent was filed in 1986 and published in 1987. The patent describes a stapler mechanism involving components such as the cover, frame, magazine, and spring. Two alternative devices I found was an electric stapler and a staple gun. An electric stapler uses an electric motor to provide the force needed to drive the staple instead of relying primarily on the user's hand force. A staple gun uses a different mechanical mechanism to drive a staple into a material and can be used when a stronger fastening force is needed. Another alternative would be a binder clip, which mechanically holds multiple sheets together without driving a staple through the material.
+
+One design decision I believe the original engineer made was using an elongated upper handle to create a larger moment arm. The user's hand applies force farther away from the pivot than the location where the staple is driven. This geometry allows the user's force to create a larger moment of the pivot and increases the force available at the staple. I believe the engineer chose this geometry to provide mechanical advantage and make the stapler easier to operate without requiring the user to apply an extremely large force. This design demonstrates how the geometry of a simple mechanical device can directly affect its performance. The patent's description of the stapler mechanism and its lever action support this interpretation.
 
 
 
