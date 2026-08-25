@@ -31,7 +31,11 @@ A mini stapler is an object almost everyone uses in their daily life. Whether yo
 
 The image above is a picture from the side of my mini stapler. The picture is just a normal image of the stapler and how small it truly is. 
 
+The stapler's governing model would be static moment/lever equilibrium. This tells us that the sum of M must =0. This explains the mechanical advantage of the stapler. The patent itself describes the stapler's operation as lever action and states that a relatively small pressing force can produce a larger pressing force at the operation frame. I assume the stapler behaves as a rigid-body lever during operation, meaning deformation of the stapler components and friction at the pivot are small enough to neglect.
 
+<img width="752" height="1002" alt="0" src="https://github.com/user-attachments/assets/94a67f22-321a-4424-a271-6d791d138c4e" />
+
+In the photo above you can see the top of the stapler and where one would push down to insert the force to allow the stapler to do its job. The top is slanted to allow you to push down onto what you want to staple so that you can staple the paper correctly. 
 
 
 
