@@ -41,3 +41,6 @@ The initial condition I changed was adding a picture to my homepage that represe
 **Your Documentation Standard**: 
 
 My standard for each assignment is to complete everything and be able to deeply describe what I completed. I want my portfolio to demonstrate my work and is worthy of receiving a high grade on each assignment. 
+
+**Time Spent**
+I spent around 8 hours on A1 of my portfolio.
