@@ -37,6 +37,10 @@ The stapler's governing model would be static moment/lever equilibrium. This tel
 
 In the photo above you can see the top of the stapler and where one would push down to insert the force to allow the stapler to do its job. The top is slanted to allow you to push down onto what you want to staple so that you can staple the paper correctly. 
 
+<img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/bbb9ce49-c3ee-4123-9b12-0ed4f3c82edc" />
+
+The components from the image above include the springs and the staple-feed assembly. The staple-feed assembly holds, feeds, and aligns staples. Most people would say this is one of the most important features because it is actually where the work is done. When you push down on your stapler it shoots the spring into the feed assembly and allows staples to come out properly. 
+
 
 
 
