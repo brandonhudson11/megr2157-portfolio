@@ -26,3 +26,8 @@
 
 ## Product Analysis- Mini Stapler 
 
+
+
+
+
+## Decide
