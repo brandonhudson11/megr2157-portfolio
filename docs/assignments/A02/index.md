@@ -1,13 +1,15 @@
 # A2 – Truss Stress Analysis
 
-## Objective
+## Project Overview
+
+For this assignment, I created and analyzed a truss with specific measurements. 
 
 
-## Analyze
+## Truss Geometry 
 
 
-## Decide
+## External Reactions
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
-## Communicate
+## Method of Joints 
 
