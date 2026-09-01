@@ -27,7 +27,9 @@ The image below shows the truss I decided to create. I chose the truss below bec
 
 **Truss Geometry**
 
-I started the analysis by drawing the truss and identifying each of its joints. The members included in the analysis were AB, BC, CD, DA, and AC. I then used the given dimensions, which included a vertical height of 0.3 m and a 0.4 m spacing between members BC, CD, and AD. For the applied load, I selected a value within the required range of 20–30 kN. I chose 23 kN because LeBron James, my favorite NBA player, wears jersey number 23. Finally, I identified the support reactions. Since A is a pin support, it has both horizontal and vertical reaction forces, Ax and Ay. At B, the support is a roller, so it only produces a vertical reaction force, By.
+To set up the truss analysis, I first identified the locations of all the joints and labeled the individual members. The truss consists of five members: AB, BC, CD, DA, and AC. I used the dimensions provided in the problem, including the 0.3 m vertical measurement and the 0.4 m distances associated with BC, CD, and AD.
+
+For the external load, I needed to select a value from 20 to 30 kN. I chose 23 kN as my load because 23 is the jersey number worn by my favorite NBA player, LeBron James. After selecting the load, I determined the types of reactions created by each support. Point A is a pin, meaning it can resist forces in both the horizontal and vertical directions, so I represented its reactions as Ax and Ay. Point B is a roller support, which only provides a vertical reaction, represented by By.
 
 
 
