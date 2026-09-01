@@ -48,3 +48,9 @@ Solving this equation resulted in By = −7.667. Once I found the reaction at B,
 Once the support reactions were determined, I moved on to analyzing the forces acting within the truss members. I used the method of joints, examining each joint separately to determine the unknown member forces. For each joint, I applied the equilibrium conditions in both the horizontal and vertical directions. Setting the sum of the forces in the x-direction and y-direction equal to zero allowed me to calculate the axial force carried by each member.
 
 **Joint B**
+
+I chose joint B as the starting point for the method of joints because the reaction at this support had already been determined, leaving only two unknown member forces to solve. Based on the 0.30 m vertical dimension and the 0.40 m horizontal dimension, member BC has a total length of 0.50 m. From these dimensions, I determined the angle of the member to be approximately 53° 13′.
+
+I then applied the equilibrium equations at joint B. Summing the forces in the vertical direction allowed me to determine the force in member BC as 13.89 kN. I followed this by summing the forces horizontally, which resulted in a force of −11.11 kN in member AB. The positive or negative sign of an internal member force indicates its type of loading. A positive value represents tension, while a negative value indicates compression.
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/055ecc33-62e7-4617-bf52-f83a4b8dc727" />
