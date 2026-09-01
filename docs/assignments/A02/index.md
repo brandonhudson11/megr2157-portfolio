@@ -119,6 +119,12 @@ Next, I begin to plan my extrude. The image below is my extruded part before I a
 <img width="705" height="290" alt="Screenshot 2026-09-01 002226" src="https://github.com/user-attachments/assets/ca6e22e1-c8ee-4ef2-877f-da9adcf3ad3e" />
 
 
+Then, I decided to create a new parts folder and create my pins. The pin had a diameter of .005 and it worked perfectly. I extruded the pin the same depth as my truss structure.  
+
+<img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/e4af304a-8dc5-4cf7-883a-07cead7897f1" />
+
+
+
 
 
 
