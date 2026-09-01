@@ -54,3 +54,18 @@ I chose joint B as the starting point for the method of joints because the react
 I then applied the equilibrium equations at joint B. Summing the forces in the vertical direction allowed me to determine the force in member BC as 13.89 kN. I followed this by summing the forces horizontally, which resulted in a force of −11.11 kN in member AB. The positive or negative sign of an internal member force indicates its type of loading. A positive value represents tension, while a negative value indicates compression.
 
 <img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/055ecc33-62e7-4617-bf52-f83a4b8dc727" />
+
+**Joint D**
+
+At joint D, I used the equilibrium equations to determine the remaining unknown force in member DA. After applying the appropriate sum of forces, I calculated the force in DA to be 38.33 kN. With this final member force determined, I had all the necessary force values to move forward with sizing the truss members based on the stresses they experience.
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/f52e1df5-de4f-49d1-9e3a-dab52ca4a367" />
+
+**Joint C**
+
+I then analyzed joint C by first determining the diagonal length of member AC. Using the truss geometry, I calculated AC to be 0.8544 m. From this value, I determined the directional components needed for the equilibrium equations, obtaining cosθ = 0.9363 and sinθ = 0.3511.
+
+After resolving the forces into their horizontal and vertical components, I applied the sum of forces equations at joint C. The calculations resulted in an axial force of −41.774 kN for member AC and 28.003 kN for member CD. The negative value for AC indicates that the member is actually experiencing compression, which is opposite to the assumed force direction used in the free-body diagram. Of all the forces calculated in the truss, AC has the greatest magnitude, making it the critical member that will determine the required member size during the next stage of the design.
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/4adbcee6-bf41-41e1-b5b7-9aaa9078de60" />
+
