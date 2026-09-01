@@ -75,9 +75,37 @@ To determine the required cross-sectional area of the members, I based my calcul
 
 <img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/c8f65895-6330-414a-9f60-1c71fc39b981" />
 
-I then plugged the numbers in to get the numerical answers. 
+I then plugged the numbers in to get the numerical answers. (You can click the image to make it bigger and easier to read)
 
 <img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/fa779805-6065-4a48-ac9a-5af77062f8f3" />
+
+# Critical Member selection 
+
+Based on the results from the previous analysis, member AC is the critical member because it experiences the highest force, with a magnitude of 41.774 kN while being subjected to compression. For the sizing calculations, I used the design parameters provided in the problem. These included a factor of safety of 3.5, a material yield strength of 345 MPa, and a density of 7850 kg/m³. These values, along with the calculated member force, were used to determine the required dimensions of the member. The following section summarizes the known quantities and the variables that still need to be determined:
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/5199ad6d-409a-47c4-af6c-4596ec46d82e" />
+
+# Trust Member Weight
+
+The next step was to determine the overall size and weight of the truss. I used the member dimensions from my worksheet, which were 1.20 m for AB, 0.50 m for BC, 0.40 m for CD, 0.50 m for DA, and 0.8544 m for AC. Together, these members resulted in a combined length of 3.2544 m.
+
+I used this total length along with the cross-sectional area to determine the volume using V = AL. Once the volume was known, I calculated the truss mass from the material density using m = ρV. To convert the mass into a force due to gravity, I used W = mg. These calculations resulted in a volume of 0.001464 m³ and a mass of 11.49 kg. The corresponding weight of the truss members was calculated to be 112.7 N.
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/f5b99acf-d42e-4a5c-9ccf-a19c1646a28e" />
+
+# Pin Shear
+
+Unlike the truss members, the pins are designed based on shear loading instead of normal stress. For this part of the analysis, I used the greatest reaction force at the supports as the critical load, rather than using the maximum force found in an individual truss member. The reaction force used was 8.33 kN, which is equivalent to 1.873 kip.
+
+The remaining design parameters were a shear strength of 170 ksi, a safety factor of 4, and a material density of 0.278 lb/in³. I also assumed that the pin experiences one shear plane. Using these values and the appropriate shear-stress relationship, I developed the symbolic calculation shown below to determine the required pin size.
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/dee7abce-7109-4e58-ba1d-ac7db1732649" />
+
+Below is the shear solved with numbers. 
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/f25bf02a-9e5f-41a4-bb2b-0611acc9a531" />
+
+
 
 
 
