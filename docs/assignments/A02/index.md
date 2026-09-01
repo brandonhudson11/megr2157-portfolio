@@ -137,6 +137,13 @@ Below is my materials page with ASTM A36 steel because SolidWorks did not have A
 <img width="356" height="599" alt="Screenshot 2026-09-01 014638" src="https://github.com/user-attachments/assets/5760d373-db53-49fe-aecd-b7d3f6be20b0" />
 
 
+After SolidWorks showed me the weight of my truss, it said it weighed 9.87kg. The measurement I got when doing calculations was 11.49. My calculations were very close to what SolidWorks gave me. 
+
+
+<img width="1720" height="958" alt="unnamed" src="https://github.com/user-attachments/assets/54602c57-0dbf-4bf6-90d6-09bca1732286" />
+
+
+
 
 
 
