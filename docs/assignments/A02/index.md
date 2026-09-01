@@ -1,5 +1,7 @@
 # A2 – Truss Stress Analysis
 
+All images below can be clicked on to view better and bigger.
+
 ## Objective 
 
 # Project Overview
