@@ -146,7 +146,9 @@ Here is my final CAD model of the truss:
 
 <img width="621" height="272" alt="Screenshot 2026-09-01 014808" src="https://github.com/user-attachments/assets/f75e2525-2d9a-4f70-908c-2ff41c83d88c" />
 
-The links have been sent to my TA on Canvas. 
+The CAD Pdf was turned in on canvas. Below is a link to my files as well. Just access them through the drive photo.
+
+https://drive.google.com/drive/u/0/folders/1-Yj8_bN6x-p6JOk36pKA5HuB3BvxTGS-
 
 # Engineering Lessons Learned
 
