@@ -107,6 +107,8 @@ Below is the shear solved with numbers.
 
 <img width="257" height="160" alt="0" src="https://github.com/user-attachments/assets/f25bf02a-9e5f-41a4-bb2b-0611acc9a531" />
 
+# CAD Model on Solidworks
+
 
 
 
