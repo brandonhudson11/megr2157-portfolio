@@ -109,6 +109,11 @@ Below is the shear solved with numbers.
 
 # CAD Model on Solidworks
 
+Once I completed all the work above, I began to 3D model my truss. I started by using the sketch tool on solid works and drawing a trapezoid/triangle. Below is an image as soon as I finished drawing my lines before I extruded. 
+
+<img width="257" height="160" alt="Screenshot 2026-09-01 001453" src="https://github.com/user-attachments/assets/d76d3854-b54e-468e-b9b4-b375de97f0f2" />
+
+
 
 
 
