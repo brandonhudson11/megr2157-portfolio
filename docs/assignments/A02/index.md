@@ -14,7 +14,17 @@ The distance a is 0.4m and b is 0.3m. The two forces labeled P have to be chosen
 
 
 
+## Decide
+
+The image below shows the truss I decided to create. I chose the truss below because I though by making a connection to the pin the truss would not move and would allow the support to be greater than if I used the roller. I chose 23kN for my force P. 
+
+
+<img width="1808" height="1002" alt="0" src="https://github.com/user-attachments/assets/aa8b62c0-1b61-461a-93e7-4182644b5415" />
+
+
 **Truss Geometry**
+
+
 
 
 **Generanal Reactions**
