@@ -69,3 +69,15 @@ After resolving the forces into their horizontal and vertical components, I appl
 
 <img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/4adbcee6-bf41-41e1-b5b7-9aaa9078de60" />
 
+# Cross Sectional Area (Miniumum) 
+
+To determine the required cross-sectional area of the members, I based my calculations on the normal stress equation, which relates stress, force, and area as σ = F/A. I also accounted for the specified factor of safety by calculating the allowable stress from the material’s yield stress using σallow = σy/N. After combining these relationships and rearranging the equations, I obtained the minimum required area as Amin ≥ NFmax/σy. This equation provides the minimum cross-sectional area needed for the member to safely withstand the maximum applied force while maintaining the required factor of safety. Below is my symbolic answers. 
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/c8f65895-6330-414a-9f60-1c71fc39b981" />
+
+I then plugged the numbers in to get the numerical answers. 
+
+<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/fa779805-6065-4a48-ac9a-5af77062f8f3" />
+
+
+
