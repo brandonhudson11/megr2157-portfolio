@@ -114,6 +114,12 @@ Once I completed all the work above, I began to 3D model my truss. I started by 
 <img width="761" height="362" alt="Screenshot 2026-09-01 001453" src="https://github.com/user-attachments/assets/a270bc90-4388-42c0-a459-b74393ae970f" />
 
 
+Next, I begin to plan my extrude. The image below is my extruded part before I added the extra line to form my truss. 
+
+<img width="705" height="290" alt="Screenshot 2026-09-01 002226" src="https://github.com/user-attachments/assets/ca6e22e1-c8ee-4ef2-877f-da9adcf3ad3e" />
+
+
+
 
 
 
