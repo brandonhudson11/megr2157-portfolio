@@ -148,7 +148,7 @@ Here is my final CAD model of the truss:
 
 The CAD Pdf was turned in on canvas. Below is a link to my files as well. Just access them through the drive photo.
 
-https://drive.google.com/drive/u/0/folders/1-Yj8_bN6x-p6JOk36pKA5HuB3BvxTGS-
+[CAD A2 Files](https://drive.google.com/drive/u/0/folders/1-Yj8_bN6x-p6JOk36pKA5HuB3BvxTGS-)
 
 # Engineering Lessons Learned
 
