@@ -142,6 +142,21 @@ After SolidWorks showed me the weight of my truss, it said it weighed 9.87kg. Th
 
 <img width="1720" height="958" alt="unnamed" src="https://github.com/user-attachments/assets/54602c57-0dbf-4bf6-90d6-09bca1732286" />
 
+Here is my final CAD model of the truss:
+
+<img width="621" height="272" alt="Screenshot 2026-09-01 014808" src="https://github.com/user-attachments/assets/f75e2525-2d9a-4f70-908c-2ff41c83d88c" />
+
+The links have been sent to my TA on Canvas. 
+
+# Engineering Lessons Learned
+
+Through this truss project, I learned how important it is to understand the forces acting on each member of a structure. I gained experience using the method of joints to determine whether members were in tension or compression. I also learned how support reactions affect the forces throughout the entire truss. Another important lesson was understanding how safety factors and material properties are used to determine appropriate member sizes. Overall, this project helped me see how engineering calculations can be used to design a structure that is both safe and efficient. I believe in the future with assignments such as these preparing myself days in advance would be beneficiary. 
+
+# Time Spent
+
+This assignment took me around 17 hours to complete over the course of 5 days. 
+
+
 
 
 
