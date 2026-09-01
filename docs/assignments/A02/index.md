@@ -101,11 +101,11 @@ Unlike the truss members, the pins are designed based on shear loading instead o
 
 The remaining design parameters were a shear strength of 170 ksi, a safety factor of 4, and a material density of 0.278 lb/in³. I also assumed that the pin experiences one shear plane. Using these values and the appropriate shear-stress relationship, I developed the symbolic calculation shown below to determine the required pin size.
 
-<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/dee7abce-7109-4e58-ba1d-ac7db1732649" />
+<img width="300" height="350" alt="0" src="https://github.com/user-attachments/assets/dee7abce-7109-4e58-ba1d-ac7db1732649" />
 
 Below is the shear solved with numbers. 
 
-<img width="300" height="202" alt="0" src="https://github.com/user-attachments/assets/f25bf02a-9e5f-41a4-bb2b-0611acc9a531" />
+<img width="300" height="350" alt="0" src="https://github.com/user-attachments/assets/f25bf02a-9e5f-41a4-bb2b-0611acc9a531" />
 
 
 
