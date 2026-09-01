@@ -124,6 +124,22 @@ Then, I decided to create a new parts folder and create my pins. The pin had a d
 <img width="1336" height="1002" alt="0" src="https://github.com/user-attachments/assets/e4af304a-8dc5-4cf7-883a-07cead7897f1" />
 
 
+Then, it was time to install the pins into the truss structure. I had to add the pins to an assembly with the truss. I then had to line up my pin with the truss and use a tool called mate in SolidWorks. 
+
+<img width="741" height="377" alt="Screenshot 2026-09-01 012837" src="https://github.com/user-attachments/assets/43a5c205-a7c1-47fb-a995-19f7aa00992b" />
+
+The image below is my pin going into the truss!
+
+<img width="621" height="377" alt="Screenshot 2026-09-01 013120" src="https://github.com/user-attachments/assets/52ddf83d-8a28-400e-834f-ca925b72ba93" />
+
+Below is my materials page with ASTM A36 steel because SolidWorks did not have A500. 
+
+<img width="356" height="599" alt="Screenshot 2026-09-01 014638" src="https://github.com/user-attachments/assets/5760d373-db53-49fe-aecd-b7d3f6be20b0" />
+
+
+
+
+
 
 
 
