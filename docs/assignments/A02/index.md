@@ -11,6 +11,9 @@ For this assignment, I created and analyzed a truss with specific measurements. 
 
 
 The distance a is 0.4m and b is 0.3m. The two forces labeled P have to be chosen at any number between 20-30 kN. Point A is a pin connection, and point B is a roller. The beam must be made of A500 steel and the cross sections had to be equal throughout the beam. 
+
+
+
 **Truss Geometry**
 
 
