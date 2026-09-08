@@ -57,3 +57,7 @@ My axial deflection was similar to what was given to me. Therefore, I believe my
 
 This assignment took 3.5 hours to complete. 
 
+My Pdfs have been uploaded on canvas, you can also access my CAD from the link below. 
+
+[CAD A3 Files]https://drive.google.com/drive/u/0/folders/19M91Rpai-HfWuYDINF971EOlsN2uWxG9
+
