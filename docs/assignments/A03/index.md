@@ -3,11 +3,19 @@
 ## Part 1
 
 
-## Analyze
+## CAD
 
 
-## Decide
+## FEA Simulation
 
 
-## Communicate
+## Deflection Curve
+
+
+
+## Von Mises Stress Curve
+
+
+
+## Design Reflection 
 
