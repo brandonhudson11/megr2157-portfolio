@@ -13,7 +13,7 @@ I started the CAD by sketching the circular end of my bar. The diameter was .500
 
 <img width="284" height="199" alt="Screenshot 2026-09-08 004428" src="https://github.com/user-attachments/assets/cf9e9188-6fef-4c28-b28d-6bb5488a0546" />
 
-I then extruded the length to 48.60 inches. I got 48.60 for my L bybthe calculations I did. 
+I then extruded the length to 48.60 inches. I got 48.60 for my L by the calculations I did. 
 
 <img width="836" height="302" alt="Screenshot 2026-09-08 004712" src="https://github.com/user-attachments/assets/9d42dd3e-1e10-4031-9ce0-1abeb3880975" />
 
