@@ -28,14 +28,32 @@ Then I chose the material for my bar. It needed to be made of aluminum, so I cho
 
 ## FEA Simulation
 
+For the FEA simulation I began by putting one end as fixed geometry and applying a 400 lbf to the other end pulling away from the bar. 
+
+<img width="771" height="446" alt="Screenshot 2026-09-08 011126" src="https://github.com/user-attachments/assets/d7c84de1-e545-4cbe-897e-301f84e816e2" />
+
+<img width="719" height="433" alt="Screenshot 2026-09-08 011259" src="https://github.com/user-attachments/assets/0daa6b2c-3268-484e-b267-ff48ce772143" />
+
 
 ## Deflection Curve
 
+Next, I ran a simulation to find a deflection curve. The result gave me .00905 which matches what was in the instructions given. 
+
+<img width="782" height="410" alt="Screenshot 2026-09-08 012616" src="https://github.com/user-attachments/assets/c0a0e337-db7f-4f80-aa7b-ca20e7c4bb40" />
 
 
 ## von Mises Stress Curve
 
+The stress curve shows the beam strength to be 3.999x10^3 which shows a safety factor of 1.47. Since the max stress is 2.193 psi and that number is lower than yield strength, the beam is in the allowed strength. 
+
+<img width="792" height="410" alt="Screenshot 2026-09-08 012310" src="https://github.com/user-attachments/assets/c2c7fb13-976d-4ced-9a65-e7d2454195e3" />
 
 
 ## Design Reflection 
+
+The assignment was very easy to understand and made a lot of sense. I did have a few moments that I did struggle though. It took me a little time to find the simulation and how to insert the force and fixed geometry. After figuring that out, everything else fell in place. The only other issue I had was changing units on my von Mises graph. Once I figured that out, I had no more issues. 
+
+My axial deflection was similar to what was given to me. Therefore, I believe my numbers and bar are correct. The two values I calculated are relatively close because the bar has a uniform cross-section and is under simple axial loading. The original design did not have any significant changes in geometry or stress. The small difference between the two results could be due to the material properties used in SolidWorks. For this axial bar, I would rely slightly more on the hand calculations since the bar has a uniform cross-section. However, the FEA results are still useful because they show that the model behaves very similarly to the analytical prediction.  This is way higher than the 3999 psi yield strength of the 1060 aluminum. The resulting safety factor was 0.34, so the design implementing a large pin would no longer pass.
+
+This assignment took 3.5 hours to complete. 
 
