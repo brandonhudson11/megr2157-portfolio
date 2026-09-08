@@ -13,7 +13,17 @@ I started the CAD by sketching the circular end of my bar. The diameter was .500
 
 <img width="284" height="199" alt="Screenshot 2026-09-08 004428" src="https://github.com/user-attachments/assets/cf9e9188-6fef-4c28-b28d-6bb5488a0546" />
 
+I then extruded the length to 48.60 inches. I got 48.60 for my L bybthe calculations I did. 
 
+<img width="836" height="302" alt="Screenshot 2026-09-08 004712" src="https://github.com/user-attachments/assets/9d42dd3e-1e10-4031-9ce0-1abeb3880975" />
+
+I then went to the equations tab and inserted the equations and all of my variables. My answers I got when I solved were the same as SolidWorks as shown below. 
+
+<img width="599" height="263" alt="Screenshot 2026-09-08 005425" src="https://github.com/user-attachments/assets/814bfa46-eb10-4608-bfa8-c2ce2ad13eb3" />
+
+Then I chose the material for my bar. It needed to be made of aluminum, so I chose the 1060 alloy because it met my calculations the most.
+
+<img width="612" height="483" alt="Screenshot 2026-09-08 014317" src="https://github.com/user-attachments/assets/b871f022-e75d-4fed-ac1e-72a5aed8c8cc" />
 
 
 ## FEA Simulation
@@ -23,7 +33,7 @@ I started the CAD by sketching the circular end of my bar. The diameter was .500
 
 
 
-## Von Mises Stress Curve
+## von Mises Stress Curve
 
 
 
