@@ -1,6 +1,6 @@
 # A3 – Paramteric and FEA
 
-## Objective
+## Part 1
 
 
 ## Analyze
