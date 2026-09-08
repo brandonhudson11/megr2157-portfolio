@@ -9,6 +9,11 @@ The purpose of this assignment was to design a solid circular bar that has a loa
 
 ## CAD
 
+I started the CAD by sketching the circular end of my bar. The diameter was .500 as shown below. 
+
+<img width="284" height="199" alt="Screenshot 2026-09-08 004428" src="https://github.com/user-attachments/assets/4947b895-428c-404a-ae37-069286391bec" />
+
+
 
 ## FEA Simulation
 
