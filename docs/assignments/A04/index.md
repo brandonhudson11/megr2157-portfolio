@@ -13,11 +13,11 @@ Figure 1(above): Shows motor, the rigid wall and the force received on the shaft
 
 
 
-## Analyze
+## Feature 1
 
 
-## Decide
+## Feature 2 
 
 
-## Communicate
+## CAD Model (Parametric)
 
