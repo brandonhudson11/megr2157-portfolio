@@ -10,7 +10,9 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 
 Figure 1(above): Shows motor, the rigid wall and the force received on the shaft of the motor, where P = 300 N
 
+<img width="1625" height="505" alt="unnamed" src="https://github.com/user-attachments/assets/9856e722-ffa1-472e-af64-d70ffb1355f9" />
 
+The image above shows the schematics of the Gear Motor. 
 
 
 ## Feature 1
