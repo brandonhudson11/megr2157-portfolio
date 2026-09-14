@@ -32,6 +32,12 @@ Using the known and unknown values, I applied the bending stress and deflection 
 
 ## Feature 2 
 
+<img width="746" height="1002" alt="0" src="https://github.com/user-attachments/assets/2e54cea1-56b4-40b0-a944-d6a6d3871f49" />
+
+<img width="773" height="1002" alt="0" src="https://github.com/user-attachments/assets/942bfc7c-d71a-4ff2-a066-20238fb03a6a" />
+
+
+
 
 ## CAD Model (Parametric)
 
