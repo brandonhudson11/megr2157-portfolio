@@ -12,7 +12,8 @@ Figure 1(above): Shows motor, the rigid wall and the force received on the shaft
 
 <img width="1625" height="505" alt="unnamed" src="https://github.com/user-attachments/assets/9856e722-ffa1-472e-af64-d70ffb1355f9" />
 
-The image above shows the schematics of the Gear Motor. 
+<img width="296" height="289" alt="download" src="https://github.com/user-attachments/assets/b9052cc9-6d35-4d69-89ec-f6f4605268f9" />
+
 
 
 ## Feature 1
