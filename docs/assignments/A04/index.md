@@ -17,7 +17,7 @@ Figure 1(above): Shows motor, the rigid wall and the force received on the shaft
 
 ## Feature 1
 
-The first step in feature 1
+In feature 1 I began by determining the minimum height of the motor mount needed to safely support the applied load without exceeding stress or maximum deflection allowed which was .30mm. 
 
 <img width="790" height="1002" alt="0" src="https://github.com/user-attachments/assets/87f344ab-2a25-411e-abb0-07593875410b" />
 
