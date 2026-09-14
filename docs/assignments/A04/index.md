@@ -15,8 +15,12 @@ Figure 1(above): Shows motor, the rigid wall and the force received on the shaft
 <img width="296" height="289" alt="download" src="https://github.com/user-attachments/assets/b9052cc9-6d35-4d69-89ec-f6f4605268f9" />
 
 
-
 ## Feature 1
+
+The first step in feature 1
+
+<img width="790" height="1002" alt="0" src="https://github.com/user-attachments/assets/87f344ab-2a25-411e-abb0-07593875410b" />
+
 
 
 ## Feature 2 
