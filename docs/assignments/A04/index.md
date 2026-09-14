@@ -32,7 +32,11 @@ Using the known and unknown values, I applied the bending stress and deflection 
 
 ## Feature 2 
 
+For Feature 2, I first created a free-body diagram (FBD) and identified all of the known and unknown values. Before determining the required height, I needed to calculate the feature’s overall length and maximum bending moment. Using the 80 mm plate length and the 13 mm height from Feature 1, I determined the overall length to be (L_2 = 93) mm. I then used the applied force of 300 N and the distance from the fixed end to calculate the maximum bending moment, which was (M = 33,300) N·mm.
+
 <img width="746" height="1002" alt="0" src="https://github.com/user-attachments/assets/2e54cea1-56b4-40b0-a944-d6a6d3871f49" />
+
+After determining these values, I used the bending stress and deflection equations to calculate the required height, (h_2). I then compared the heights obtained from each equation and selected the larger value. Using the larger height ensures that Feature 2 satisfies both the allowable stress and maximum deflection requirements.
 
 <img width="773" height="1002" alt="0" src="https://github.com/user-attachments/assets/942bfc7c-d71a-4ff2-a066-20238fb03a6a" />
 
