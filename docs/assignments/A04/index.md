@@ -74,7 +74,6 @@ While completing the motor mount assignment, I learned very important factors in
 
 This assignment took me around 6 hours to complete. 
 
-My CAD Model: [CAD A4](https://drive.google.com/drive/u/0/folders/1meFugkuaKqVI215CLI7qscOopBACN
 
 
 ## Appendix 
