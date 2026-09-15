@@ -26,10 +26,6 @@ Using the known and unknown values, I applied the bending stress and deflection 
 <img width="777" height="1002" alt="0" src="https://github.com/user-attachments/assets/c43e932c-f893-4e5d-a6b8-f2a12e16e285" />
 
 
-
-
-
-
 ## Feature 2 
 
 For Feature 2, I first created a free-body diagram (FBD) and identified all of the known and unknown values. Before determining the required height, I needed to calculate the feature’s overall length and maximum bending moment. Using the 80 mm plate length and the 13 mm height from Feature 1, I determined the overall length to be (L_2 = 93) mm. I then used the applied force of 300 N and the distance from the fixed end to calculate the maximum bending moment, which was (M = 33,300) N·mm.
@@ -52,10 +48,16 @@ After determining these values, I used the bending stress and deflection equatio
 
 ## Lessons learned 
 
+While completing the motor mount assignment, I learned very important factors including how to implement a safety factor for both deflection and stress. I learned how to sketch on different planes to connect the drawing in the end. It was very challenging at first, but once I cut out my part it made much more sense. 
+
+This assignment took me around 6 hours to complete. 
+
 
 ## Appendix 
 
 These are the websites I got additional information/inspiration: 
 
 [Appendix 1](https://thmotorsports.com/8496834-innovative-mounts-10751-75a-innovative-steel-motor-mounts)
+
+[Appendix 2](https://www.advanceadapters.com/engine-motor-mounts-2)
 
