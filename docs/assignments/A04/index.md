@@ -46,6 +46,27 @@ After determining these values, I used the bending stress and deflection equatio
 
 ## CAD Model (Parametric)
 
+Here are my global variables that helped me build my part. 
+
+<img width="599" height="263" alt="Screenshot 2026-09-15 000835" src="https://github.com/user-attachments/assets/1ade8eae-3fd8-40b6-b219-c216b1f3670e" />
+
+
+Once I had my dimensions, I traced out the shape of the motor to then base extrude the part. 
+
+<img width="619" height="342" alt="Screenshot 2026-09-15 001418" src="https://github.com/user-attachments/assets/f793c02d-0533-44e8-b22f-c84ccea0a640" />
+
+I then cut the holes on feature 2 for the screws. 
+
+<img width="497" height="340" alt="Screenshot 2026-09-15 003921" src="https://github.com/user-attachments/assets/e50ae4be-8c28-428f-a8ac-300aba6a7e9c" />
+
+I then cut the holes for the motor to sit in.
+
+<img width="334" height="211" alt="Screenshot 2026-09-15 004554" src="https://github.com/user-attachments/assets/ce2aaf03-4e21-4b00-8cfb-e13f2cd6a9da" />
+
+I then had the completed part as seen below: 
+
+<img width="456" height="356" alt="Screenshot 2026-09-15 004717" src="https://github.com/user-attachments/assets/e0248b35-5eb0-442b-a07b-2cb7d4c8a772" />
+
 
 ## Lessons learned 
 
