@@ -40,8 +40,22 @@ After determining these values, I used the bending stress and deflection equatio
 
 <img width="773" height="1002" alt="0" src="https://github.com/user-attachments/assets/942bfc7c-d71a-4ff2-a066-20238fb03a6a" />
 
+## Motor Mount Sketch 
+
+
+
 
 
 
 ## CAD Model (Parametric)
+
+
+## Lessons learned 
+
+
+## Appendix 
+
+These are the websites I got additional information/inspiration: 
+
+[Appendix 1](https://thmotorsports.com/8496834-innovative-mounts-10751-75a-innovative-steel-motor-mounts)
 
