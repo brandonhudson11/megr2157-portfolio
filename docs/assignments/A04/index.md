@@ -39,6 +39,7 @@ After determining these values, I used the bending stress and deflection equatio
 ## Motor Mount Sketch 
 
 
+<img width="2005" height="1211" alt="unnamed" src="https://github.com/user-attachments/assets/880e3c76-7a5b-4b1e-aaa0-48eb3fb3c13c" />
 
 
 
@@ -51,6 +52,8 @@ After determining these values, I used the bending stress and deflection equatio
 While completing the motor mount assignment, I learned very important factors including how to implement a safety factor for both deflection and stress. I learned how to sketch on different planes to connect the drawing in the end. It was very challenging at first, but once I cut out my part it made much more sense. 
 
 This assignment took me around 6 hours to complete. 
+
+My CAD Model: [CAD A4](https://drive.google.com/drive/u/0/folders/1meFugkuaKqVI215CLI7qscOopBACN
 
 
 ## Appendix 
