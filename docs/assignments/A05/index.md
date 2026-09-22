@@ -1,13 +1,13 @@
 # A5 – [Bracket Design]
 
-## Objective
+## Part 1 ( Stress Calculations )
 
 
-## Analyze
+## Part 2 ( Stiffness Calculation )
 
 
-## Decide
+## Multiview Drawings
 
 
-## Communicate
+## Lessons learned
 
