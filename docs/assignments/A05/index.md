@@ -59,6 +59,22 @@ For C-E I used the internal dimensions.
 
 ## Multiview Drawings
 
+I created orthogonal views after I found my dimensions to properly display the design. 
+
+
+<img width="1152" height="1366" alt="image" src="https://github.com/user-attachments/assets/608d6e3d-4e72-429a-b5a3-b88a54d66164" />
+
+
+<img width="920" height="998" alt="image" src="https://github.com/user-attachments/assets/a6a73e25-4462-498b-9b14-94fc3b924367" />
+
+
+I completed the drawings by hand except for the full view. I used the image to make it neater and easier to read. I copied my first drawing of stress and pasted it for stiffness as well and just changed up the numbers.
+
 
 ## Lessons learned
+
+This assignment helped me strengthen my understanding of how statics and strength of materials are used to analyze mechanical components. I learned how to apply normal stress, bending stress, and stiffness equations to determine the appropriate dimensions for a bracket. Developing free-body diagrams for each segment improved my ability to identify forces and establish the equations needed for analysis. I also gained experience making reasonable engineering assumptions and simplifying a design while maintaining accurate calculations. One of the most important lessons I learned was that a component must satisfy both strength and deflection requirements, rather than relying on stress analysis alone. Working through the algebraic and numerical solutions also improved my problem-solving skills and helped me better understand how theoretical equations apply to practical engineering designs.
+
+This assignment took me 8 hours to complete. 
+
 
