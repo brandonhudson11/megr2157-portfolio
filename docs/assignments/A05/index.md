@@ -4,6 +4,8 @@ For this assignment I had to design a bracket. The objective of this design is t
 
 <img width="1395" height="1108" alt="image" src="https://github.com/user-attachments/assets/ccbf5b53-69c9-4f95-98fb-0930f8efe3b9" />
 
+To simplify the design and analysis process, I chose to maintain a symmetrical bracket geometry, incorporating this decision into the subsequent calculations.
+
 
 ## Part 1 ( Stress Calculations )
 
