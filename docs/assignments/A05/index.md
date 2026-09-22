@@ -35,6 +35,27 @@ The following sections detail the analysis performed on each bracket component. 
 
 ## Part 2 ( Stiffness Calculation )
 
+The stiffness evaluation focused on determining how the bracket’s dimensions would change under the specified loading conditions. I retained the material length from Part A and applied it to the deflection formulas to establish the revised dimensions. For each section, I outlined the available information, identified the quantities being solved for, and documented the assumptions used in the analysis. Free-body diagrams were created for the individual segments, with the calculations presented through both theoretical equations and numerical substitutions.
+
+
+<img width="1863" height="1202" alt="image" src="https://github.com/user-attachments/assets/bc8eb2b9-cfa8-406f-a939-5cd81d8a0828" />
+
+
+<img width="1704" height="1304" alt="image" src="https://github.com/user-attachments/assets/b8da3300-dc67-444b-a052-f0c627b00ce7" />
+
+
+For C-E I used the internal dimensions. 
+
+
+<img width="1447" height="1185" alt="image" src="https://github.com/user-attachments/assets/3921755b-516a-49f3-920f-72e8c6c4f26f" />
+
+
+<img width="1592" height="1133" alt="image" src="https://github.com/user-attachments/assets/45000c75-9dc1-453f-8421-47e459b5d0ae" />
+
+
+<img width="2036" height="1279" alt="image" src="https://github.com/user-attachments/assets/128b3b2b-96e4-4cd4-a050-b7e544e4ae98" />
+
+
 
 ## Multiview Drawings
 
