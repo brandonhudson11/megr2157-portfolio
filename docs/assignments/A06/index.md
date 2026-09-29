@@ -1,13 +1,13 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing 1
 
 ## Objective
 
 
-## Analyze
+## CAD model
 
 
-## Decide
+## Drawing
 
 
-## Communicate
+## Reflection 
 
