@@ -52,7 +52,9 @@ I then created my drawing my just moving each view of my part onto a drawing pap
 
 ## Reflection 
 
-I learned a lot while doing this assignment. I learned how to use drawings more efficiently in SolidWorks and how important getting your dimensions right can be. I did make a couple of my calculations wrong initially, but I had time to go back and fix them to make my part correct. 
+I learned a lot while doing this assignment. I learned how to use drawings more efficiently in SolidWorks and how important getting your dimensions right can be. I did make a couple of my calculations wrong initially, but I had time to go back and fix them to make my part correct. Creating the engineering drawings also gave me more experience with properly communicating a design through multiple views, dimensions, and details. I learned that an accurate drawing is just as important as the 3D model because it provides the information needed to understand and manufacture the part.
+
+Overall, this assignment improved my CAD and engineering drawing skills while helping me connect the design process with the strength of materials concepts used to determine the bracket's dimensions. It also gave me more confidence in creating a complete engineering design from an initial concept to a finished model and drawing.
 
 This assignment took me 3 hours to complete. 
 
