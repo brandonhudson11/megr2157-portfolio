@@ -50,3 +50,7 @@ Throughout this project, I learned how changes in geometry can affect a bracket'
 
 This assignment took me 9 hours to complete.
 
+## CAD Link
+
+[CAD 7 FEA Download](https://drive.google.com/drive/u/0/search?q=parent:1x9sKxqxpTfMvnAZYo-oCJJ9sZlZoiDaN%20sharedwith:ChVzYm9kbmFyQGNoYXJsb3R0ZS5lZHUoBw==)
+
