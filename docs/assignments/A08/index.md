@@ -67,8 +67,6 @@ To finish the assembly, I checked the movement of the shafts and gears to make s
 
 ## Lessons Learned
 
-## Lessons Learned
-
 Throughout this project, I learned how important it is to consider both the individual components and how they work together when designing a mechanical system. One of the biggest things I took away from this assignment was the importance of using accurate measurements and dimensions when creating CAD models. Using the actual CAD files from McMaster-Carr made the design process easier because I could build the shafts and gearbox housing around the selected gears and bearings instead of estimating their sizes.
 
 I also gained a better understanding of how shafts, spur gears, and journal bearings work together in a gearbox. Calculating the required dimensions, selecting materials based on the PV value, and determining the proper thickness helped me connect the calculations from class to an actual mechanical design. I learned that even small dimensional differences can affect how components fit and operate once everything is assembled.
