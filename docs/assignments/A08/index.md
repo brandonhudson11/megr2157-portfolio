@@ -75,6 +75,8 @@ Another important lesson was the value of planning before starting the CAD model
 
 Overall, this project gave me more experience with mechanical design, CAD modeling, component selection, and assembly. It helped me understand the amount of planning and attention to detail required to design a functional gearbox. I also learned that designing a part is only one step of the process; making sure all the parts fit together, operate correctly, and can be assembled and disassembled is just as important.
 
+This assignment took me 13 hours to complete.
+
 ## Files
 
 <a href="https://drive.google.com/drive/folders/1253am3DxTlZm73rnt-mUodxzAsZr4yRw?usp=drive_link">A8</a>
