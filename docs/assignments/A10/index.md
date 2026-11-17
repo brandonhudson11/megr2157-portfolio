@@ -122,8 +122,6 @@ Modeling the lead screw and crosshead helped me better understand how individual
 
 ## CAD FILES
 
-# A10 CAD Files
-
 [Google Drive – A10 CAD Files](https://drive.google.com/drive/u/0/folders/1nQlM7cM3rbcqljRFo6o5Ii-l7HKpFuqM)
 
 
