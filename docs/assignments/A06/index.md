@@ -2,11 +2,11 @@
 
 ## Objective
 
-1. Develop a fully parametric CAD model of the bracket designed in A5 and create a corresponding engineering drawing.
+1. Design a parametric 3D CAD representation of the bracket developed in A5 and produce a technical drawing of the final design.
 
-2. Produce a complete 3D solid model along with a detailed multi-view drawing that clearly communicates the bracket’s geometry and dimensions.
+2. Build a complete solid model and create an engineering drawing containing multiple views to illustrate the overall shape, construction, and key measurements.
 
-3. Include all necessary design features and dimensions to satisfy the required strength and stiffness criteria.
+3. Apply the necessary structural features and dimensional specifications to ensure the bracket can withstand the required loads while maintaining adequate rigidity.
 
 I began the assignment by inserting all of my calculations from A5 into SolidWorks parametric equations. Below is my global variables. 
 
