@@ -34,7 +34,6 @@ After completing the shaft calculations, I moved on to choosing the journal bear
 
 I designed the supporting structure as a basic rectangular frame that provides a stable base for mounting the shaft bearings. The layout keeps the shafts properly aligned while maintaining the specified 5-inch center-to-center distance between the pulleys. This design offers a straightforward way to support the rotating components and keep the system properly positioned during operation.
 
-<img width="1017" height="986" alt="image" src="https://github.com/user-attachments/assets/1341d45c-f971-4cf8-9d5f-a1801cae7c54" />
 
 After reviewing the Ashby material selection chart, I chose an aluminum alloy for the frame. Aluminum provides a good combination of mechanical strength and lightweight properties, allowing the structure to support the pulley assembly without adding excessive weight. This makes it a practical material choice for maintaining structural support while keeping the overall system relatively light.
 
